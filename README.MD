@@ -16,13 +16,13 @@
 - **[C++ 关键字](./1/Keywords/keyWords.md)**  
 - **[引用](./1/Quote/Quote.md)**  
 - **[命名空间](./1/namespace/namespace.md)**  
-- **[`static` 说明](./static/static.md)**  
+- **[`static` 说明](./1/static/static.md)**  
 - **[内联函数](./1/inline/inline.md)**  
 
 ## 第二组：函数与编程特性（进阶）  
 
 - **[虚函数](./2/virtual/virtual.md)**  
-- **[Lambda 表达式](./lambal/lambal.md)**  
+- **[Lambda 表达式](./2/lambal/lambal.md)**  
 - **[异常处理](./2/abnormal/abnormal.md)**  
 - **[`this` 指针](./2/this/this.md)**  
 - **[堆内存的管理](./2/Heap/Heap.md)**  
